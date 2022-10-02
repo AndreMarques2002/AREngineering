@@ -15,4 +15,4 @@ Aplicativo de Realidade Aumentada desenvolvido como projeto de Iniciação Cient
 
 <img width="300" alt="Avaliacao2" src="https://user-images.githubusercontent.com/68757646/193473324-178d534a-12f1-40d1-bce1-e267f5fcdb1c.jpg">
 
-<img width="300" alt="Forms_(1)" src="https://user-images.githubusercontent.com/68757646/193473340-064d6c9a-41ea-4d4a-8093-505a45dd3ec8.PNG">  
+<img width="600" alt="Forms_(1)" src="https://user-images.githubusercontent.com/68757646/193473340-064d6c9a-41ea-4d4a-8093-505a45dd3ec8.PNG">  
