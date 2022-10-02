@@ -3,6 +3,8 @@ Aplicativo de Realidade Aumentada desenvolvido como projeto de Iniciação Cient
 Abaixo estão ilustradas algumas cenas no aplicativo.
 
 <p align="center">
+     
+     
      <img width="300" alt="MenuInicial" src="https://user-images.githubusercontent.com/68757646/193473404-500d9f60-70bc-4113-b221-67434aef1374.jpg">
 </p>
 
