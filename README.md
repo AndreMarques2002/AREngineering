@@ -3,9 +3,7 @@ Aplicativo de Realidade Aumentada desenvolvido como projeto de Iniciação Cient
 
 
 
-<img width="300" alt="MenuInicial" src="https://user-images.githubusercontent.com/68757646/193473404-500d9f60-70bc-4113-b221-67434aef1374.jpg">                               
-                                       
-<img width="300" alt="CameraAR" src="https://user-images.githubusercontent.com/68757646/193473377-5acf88c4-72a0-4200-a112-075b372fecaf.jpg">
+<img width="300" alt="MenuInicial" src="https://user-images.githubusercontent.com/68757646/193473404-500d9f60-70bc-4113-b221-67434aef1374.jpg"><img width="300" alt="CameraAR" src="https://user-images.githubusercontent.com/68757646/193473377-5acf88c4-72a0-4200-a112-075b372fecaf.jpg">
      
 <img width="300" alt="CameraAR2" src="https://user-images.githubusercontent.com/68757646/193473392-6c89b206-0b46-45d0-ad81-032070b852e8.jpg">
           
