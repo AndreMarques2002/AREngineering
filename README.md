@@ -18,4 +18,4 @@ Abaixo estão ilustradas algumas cenas no aplicativo.
      <img width="800" alt="Forms_(1)" src="https://user-images.githubusercontent.com/68757646/193473340-064d6c9a-41ea-4d4a-8093-505a45dd3ec8.PNG">
 </p>
 
-Ademais, também criou-se uma [*playlist*](https://youtube.com/playlist?list=PLLTR17m75ZSmw-jjz4cPF-qEWvW3S-VE9) que contempla as vídeos abordandos tópicos relacionados a desenho técnico (caligrafia técnica, linhas, folhas e escalas segundo à NBR 16861 - 11/2020).
+Ademais, também criou-se uma [*playlist*](https://youtube.com/playlist?list=PLLTR17m75ZSmw-jjz4cPF-qEWvW3S-VE9) que contempla as vídeos abordandos tópicos relacionados a desenho técnico (caligrafia técnica, linhas, folhas e escalas segundo à NBR 16861 - 11/2020). 
